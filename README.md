@@ -11,9 +11,9 @@ Analysis of ~540,000 transactions from a UK-based online retailer (Dec 2010 – 
 R, tidyverse (dplyr, ggplot2), lubridate
 
 ## Key findings
-- (your top returned products)
-- (your revenue pattern, e.g. peak before Christmas)
-- (median order sizes + Wilcoxon test result)
+- Revenue pattern from UK customers
+- order size comparsion between UK and other
+
 
 ## Data cleaning notes
 - Removed warehouse adjustments (non-"C" negative quantities with no CustomerID)
